@@ -1,2 +1,3 @@
 Hai
 Added content from feature1
+Added content from feature2
