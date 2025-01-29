@@ -1,4 +1,2 @@
 Hai
-modified content in feature1
-Modified again for dry run
-After merging with master
+Added content from feature1
