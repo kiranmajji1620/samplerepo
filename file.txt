@@ -1,3 +1,2 @@
 Hai
 modified content in feature1
-modified content in feature1 pushing to feature2
