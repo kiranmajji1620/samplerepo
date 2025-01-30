@@ -1,4 +1,4 @@
-Hai from featur1
+
 modified content in feature1
 Modified again for dry run
 After merging with master
