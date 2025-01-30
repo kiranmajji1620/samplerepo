@@ -1,4 +1,4 @@
 Hai
 Added content from feature1
-added content from feature3
+changed content from feature3
 Added content 
