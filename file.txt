@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 Hai
 Added content from feature1
 adedfsafd
+=======
+>>>>>>> master
